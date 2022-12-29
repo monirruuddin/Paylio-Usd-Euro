@@ -1,0 +1,27 @@
+{
+    "user":
+    {
+        "userA":{
+            "name": "Jhon Smith",
+            "designation":"Banker",
+            "totalBalance":100000,
+            "totaltranfser":0,
+            "accno":"pl89765",
+            "pin":"paylio001",
+            "currency": "Usd($)"
+
+        },
+        "userB":{
+            "name": "Habith Losi",
+            "designation":"Businessman",
+            "totalBalance":0,
+            "totaltranfser":0,
+            "accno":"pl79642",
+            "pin":"paylio991",
+            "currency": "Euro(€)"
+        
+        },
+        "transitionInfo":[]
+    }
+    
+    }
